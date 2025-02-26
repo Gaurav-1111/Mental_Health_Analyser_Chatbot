@@ -3,7 +3,7 @@ import base64
 import os
 from langchain_groq import ChatGroq
 
-st.set_page_config(page_title="Mental Health Chatbot", layout="wide")
+st.set_page_config(page_title="Mental Health Chatbot")
 
 def get_base64(background):
     with open(background, "rb") as f:
