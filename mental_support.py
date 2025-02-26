@@ -27,9 +27,9 @@ st.session_state.setdefault('conversation_history', [])
 
 
 llm = ChatGroq(
-    model_name="gemma2-9b-it",  
+    model_name="llama-3.3-70b-versatile",  
     temperature=0.7,
-    groq_api_key="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" 
+    groq_api_key="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" 
 )
 
 def generate_response(user_input):
