@@ -32,9 +32,9 @@ st.session_state.setdefault('conversation_history', [])
 
 # Set up Groq API with LangChain
 llm = ChatGroq(
-    model_name="mixtral-8x7b",  # Alternative: "llama3-8b"
+    model_name="deepseek-r1-distill-llama-70b",  # Alternative: "llama3-8b"
     temperature=0.7,
-    groq_api_key=os.getenv("GROQ_API_KEY")  # Ensure you set this in your environment
+    groq_api_key="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"  # Ensure you set this in your environment
 )
 
 # Function to Generate AI Response
