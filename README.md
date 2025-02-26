@@ -18,3 +18,11 @@ Built using Groq API and Streamlit, this chatbot can help users manage stress an
 Streamlit → Interactive UI
 LangChain (Groq) → AI LLM Processing
 Python → Backend Logic
+
+📷 Screenshots
+🖼️ Images of chatbot in action!
+
+![image](https://github.com/user-attachments/assets/edc8e9cb-3753-4633-b87e-bef9c30928dd)
+![image](https://github.com/user-attachments/assets/fcf2f171-2896-4f36-8819-195e71c39ef4)
+![image](https://github.com/user-attachments/assets/b37f2e88-fc54-46dd-9706-1f6b10e721f1)
+
